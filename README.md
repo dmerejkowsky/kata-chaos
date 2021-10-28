@@ -22,8 +22,8 @@ The suites we'll study will start at `0.5` and then apply `f`, like this:
 index term
   0    0.5
   1    f(0.5)
-  2    f(f(0.5)
-  3    f(f(f(0.y)
+  2    f(f(0.5))
+  3    f(f(f(0.5)))
 ```
 
 More specifically, we'll study what happens to the suites when the `k`
